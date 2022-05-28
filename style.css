@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,700;1,500&family=Pacifico&display=swap');
+
+.nav-item:hover {
+    gap: 20rem;
+    color: #fff;
+
+}
+
+.navbar-nav{
+  gap: 6rem;
+
+}
+
+.bg-img{
+    background-image: url("img/dev.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 30rem;
+    width: 100%;  
+    background-attachment: fixed;
+
+
+}
+
+.header-text{
+    color: #fff;
+    font-size: 3rem;
+    font-weight: bold;
+   
+}
+
+.hero-txt{
+    color:rgb(35, 34, 34);
+    font-size: 1.5rem;
+    font-weight: bold;
+  
+    /* background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,0.12000255424435402) 0%, rgba(215,219,225,1) 0%, rgba(0,255,245,1) 100%); */
+
+}
+
+.section{
+    padding:5rem;
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,0.12000255424435402) 0%, rgba(215,219,225,1) 0%, rgb(197, 197, 197) 100%);
+}
+
+.para{
+    color: rgb(53, 53, 53);
+    font-size: 1.5rem;
+    font-weight: bold;
+   
+}
+
+h1,h2,h3,h4,h5,h6,p {
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+
+
+
+.features{
+    background-color: rgb(229, 255, 196);
+    padding: 6rem;
+    margin-top: 6rem;
+}
+
+
+.fa-solid{
+    font-size: 3rem;
+    color: rgb(2,0,36);
+}
+.fa-lock:hover  {
+    color:#d3c938;
+
+}
+.fa-database:hover{
+    color:#d3c938;
+    
+}
+.fa-code:hover{
+    color:#d3c938;
+}
+
+.container{
+    padding: 5rem;
+}
+.content{
+    padding: 2rem;
+}
+
+.figure-caption{
+    color: rgb(53, 53, 53);
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+
+
+.testimonial-card .card-up { height: 120px; overflow: hidden; border-top-left-radius:
+    0.25rem; border-top-right-radius: 0.25rem; } .testimonial-card .avatar { width: 110px;
+    margin-top: -60px; overflow: hidden; border: 3px solid #fff; border-radius: 50%; }
